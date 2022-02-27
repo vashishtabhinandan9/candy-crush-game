@@ -1,0 +1,14 @@
+.grid{
+    height: 560px;
+    width: 560px;
+
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blue ;
+    margin: 50px 80px;
+    }
+
+.grid div{
+    width:70px;
+    height:70px;
+}
